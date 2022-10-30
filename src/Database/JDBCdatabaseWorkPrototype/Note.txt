@@ -1,0 +1,5 @@
+Прототип работы с БД через JDBC.
+В примере есть все связи.
+@OneToOne
+@OneToMany
+@ManyToMany
