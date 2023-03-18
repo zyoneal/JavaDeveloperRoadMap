@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.visitor.ExampleHouse;
+package behavioral.visitor.ExampleHouse;
 
 public class ElectricitySystemValidator implements IVisitor {
     @Override

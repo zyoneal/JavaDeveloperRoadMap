@@ -1,4 +1,4 @@
-package JavaCore.Multithreading.Threading.Synchronized;
+package Threading.Synchronized;
 
 public class FibonacciConcurrent {
 

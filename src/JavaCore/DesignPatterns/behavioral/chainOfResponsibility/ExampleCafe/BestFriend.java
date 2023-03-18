@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.chainOfResponsibility.ExampleCafe;
+package behavioral.chainOfResponsibility.ExampleCafe;
 
 import java.util.ArrayList;
 import java.util.List;

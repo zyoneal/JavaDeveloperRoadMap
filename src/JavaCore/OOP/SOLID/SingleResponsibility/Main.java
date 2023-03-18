@@ -1,5 +1,4 @@
-package JavaCore.OOP.SOLID.SingleResponsibility;
-
+package SOLID.SingleResponsibility;
 public class Main {
 
     public static void main(String[] args) {

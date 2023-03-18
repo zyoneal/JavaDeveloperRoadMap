@@ -1,7 +1,7 @@
-package JavaCore.Collections.QueueAndDeque;
+package QueueAndDeque;
 
-import JavaCore.Collections.CardsExample.Card;
-import JavaCore.Collections.CardsExample.CardComparator;
+import CardsExample.Card;
+import CardsExample.CardComparator;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

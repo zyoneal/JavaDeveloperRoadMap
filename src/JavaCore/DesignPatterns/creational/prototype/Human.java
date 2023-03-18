@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.creational.prototype;
+package creational.prototype;
 
 public class Human implements Copyable {
 

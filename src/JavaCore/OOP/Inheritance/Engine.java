@@ -1,4 +1,4 @@
-package JavaCore.OOP.Inheritance;
+package Inheritance;
 
 import java.util.ArrayList;
 import java.util.List;

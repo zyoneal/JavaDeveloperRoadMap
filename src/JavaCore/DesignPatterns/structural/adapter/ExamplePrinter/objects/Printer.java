@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.adapter.ExamplePrinter.objects;
+package structural.adapter.ExamplePrinter.objects;
 
 public class Printer {
 

@@ -1,5 +1,4 @@
-package JavaCore.OOP.Inheritance;
-
+package Inheritance;
 // Abstract class for Autos with fuel -> extends Auto + set patrol, tankVolume
 public abstract class FuelAuto extends Auto {
 

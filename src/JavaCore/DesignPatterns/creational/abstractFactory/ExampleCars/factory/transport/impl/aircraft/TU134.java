@@ -1,6 +1,6 @@
-package JavaCore.DesignPatterns.abstractFactory.factory.transport.impl.aircraft;
+package creational.abstractFactory.ExampleCars.factory.transport.impl.aircraft;
 
-import JavaCore.DesignPatterns.abstractFactory.transport.interfaces.Aircraft;
+import creational.abstractFactory.ExampleCars.transport.interfaces.Aircraft;
 
 public class TU134 implements Aircraft {
 

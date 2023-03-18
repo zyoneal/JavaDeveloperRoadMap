@@ -1,5 +1,4 @@
-package JavaCore.DesignPatterns.structural.proxy.ExampleImage;
-
+package structural.proxy.ExampleImage;
 // Прокси подменяет реальный объект и посылает запросы к нему, когда
 //это нужно. Прокси также может инициализировать реальный объект, если он
 //до этого не существовал.

@@ -1,7 +1,7 @@
-package JavaCore.Multithreading.Threading;
+package Threading;
 
-import static JavaCore.Multithreading.Threading.ColorScheme.GREEN;
-import static JavaCore.Multithreading.Threading.ColorScheme.YELLOW;
+import static Threading.ColorScheme.GREEN;
+import static Threading.ColorScheme.YELLOW;
 
 public class ConcurrentMain {
     // потоки создаются хаотично.

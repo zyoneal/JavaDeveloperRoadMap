@@ -1,4 +1,4 @@
-package JavaCore.Multithreading.Threading.locks;
+package Threading.locks;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Condition;

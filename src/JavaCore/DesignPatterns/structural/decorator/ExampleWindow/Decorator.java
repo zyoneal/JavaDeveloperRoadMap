@@ -1,5 +1,4 @@
-package JavaCore.DesignPatterns.structural.decorator.ExampleWindow;
-// Другое название - обертка
+package structural.decorator.ExampleWindow;// Другое название - обертка
 // Расширение функционала обьекта без дочерних классов (альтернатива наследованию)
 // Более гибкий способ добавить новый функционал к любому существующему обьекту
 // Возможность включения и исключения нового поведения для любого обьекта в любое время
@@ -8,7 +7,8 @@ package JavaCore.DesignPatterns.structural.decorator.ExampleWindow;
 // которое может быть не связано по смыслу (в наследовании желательно поддерживать связь "является")
 // Декораторы могут вкладываться друг в друга
 
-import JavaCore.DesignPatterns.structural.decorator.ExampleWindow.objects.Component;
+
+import structural.decorator.ExampleWindow.objects.Component;
 
 public abstract class Decorator implements Component {
 

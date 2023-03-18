@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.creational.factoryMethod.ExampleLogger;
+package creational.factoryMethod.ExampleLogger;
 
 public class EnterpriseLogger implements ILogger {
     @Override

@@ -1,4 +1,4 @@
-package JavaCore.Multithreading.Threading.volotile;
+package Threading.volotile;
 
 public class VolatileMain {
 

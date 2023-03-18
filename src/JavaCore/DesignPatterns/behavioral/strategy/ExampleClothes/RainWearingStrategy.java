@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.strategy.ExampleClothes;
+package behavioral.strategy.ExampleClothes;
 
 public class RainWearingStrategy implements IWearingStrategy {
 

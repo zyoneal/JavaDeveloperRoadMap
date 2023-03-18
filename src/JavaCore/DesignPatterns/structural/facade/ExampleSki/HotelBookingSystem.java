@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.facade.ExampleSki;
+package structural.facade.ExampleSki;
 
 public class HotelBookingSystem {
 

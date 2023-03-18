@@ -1,4 +1,4 @@
-package JavaCore.OOP.SOLID.InterfaceSegregation;
+package SOLID.InterfaceSegregation;
 
 // NOT VALID -> не нужно так создавать интерфейсы.
 // Лучше создать много разных узкоспециализированных интерфейсов. {ILine, ICircle, IRect}

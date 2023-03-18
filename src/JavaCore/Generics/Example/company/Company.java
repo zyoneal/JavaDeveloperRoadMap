@@ -1,7 +1,7 @@
-package JavaCore.Generics.Example.company;
+package Example.company;
 
-import JavaCore.Generics.Example.company.employees.Employee;
-import JavaCore.Generics.Example.company.employees.ITSpecialist;
+import Example.company.employees.Employee;
+import Example.company.employees.ITSpecialist;
 
 import java.util.ArrayList;
 import java.util.List;

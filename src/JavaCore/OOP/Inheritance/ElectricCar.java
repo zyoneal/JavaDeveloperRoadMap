@@ -1,5 +1,4 @@
-package JavaCore.OOP.Inheritance;
-
+package Inheritance;
 public class ElectricCar extends Auto {
 
     private int batteryValue;

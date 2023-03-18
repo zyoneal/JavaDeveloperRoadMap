@@ -1,6 +1,6 @@
-package JavaCore.DesignPatterns.abstractFactory.factory.transport.impl.car;
+package creational.abstractFactory.ExampleCars.factory.transport.impl.car;
 
-import JavaCore.DesignPatterns.abstractFactory.transport.interfaces.Car;
+import creational.abstractFactory.ExampleCars.transport.interfaces.Car;
 
 public class Niva implements Car {
 

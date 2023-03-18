@@ -1,4 +1,4 @@
-package JavaCore.Multithreading.BuisnessIncubator;
+package BuisnessIncubator;
 
 import java.util.List;
 import java.util.concurrent.Callable;

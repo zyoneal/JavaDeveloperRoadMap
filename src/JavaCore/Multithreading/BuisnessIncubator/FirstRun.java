@@ -1,4 +1,4 @@
-package JavaCore.Multithreading.BuisnessIncubator;
+package BuisnessIncubator;
 
 // реализовать интерфейс Runnable
 public class FirstRun implements Runnable{

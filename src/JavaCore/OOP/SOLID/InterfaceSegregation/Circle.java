@@ -1,4 +1,4 @@
-package JavaCore.OOP.SOLID.InterfaceSegregation;
+package SOLID.InterfaceSegregation;
 
 // NOT VALID
 public class Circle implements Shape {

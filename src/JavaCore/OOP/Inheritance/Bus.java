@@ -1,5 +1,4 @@
-package JavaCore.OOP.Inheritance;
-
+package Inheritance;
 // Bus - depends on Fuel -> extends FuelAuto -> FuelAuto extends Auto
 public class Bus extends FuelAuto {
 

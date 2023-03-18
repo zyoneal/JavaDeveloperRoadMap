@@ -1,4 +1,4 @@
-package JavaCore.Collections.CardsExample;
+package CardsExample;
 
 import java.util.Arrays;
 import java.util.Comparator;

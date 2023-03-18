@@ -1,4 +1,4 @@
-package JavaCore.Interfaces.Example;
+package Example;
 
 public class CellPhone extends Electronics {
 

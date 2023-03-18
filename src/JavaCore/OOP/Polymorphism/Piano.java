@@ -1,4 +1,4 @@
-package JavaCore.OOP.Polymorphism;
+package Polymorphism;
 
 public class Piano extends Instrument {
 

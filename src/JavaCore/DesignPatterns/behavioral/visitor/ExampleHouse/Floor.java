@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.visitor.ExampleHouse;
+package behavioral.visitor.ExampleHouse;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,4 @@
-package JavaCore.Multithreading.BuisnessIncubator;
-
-import JavaCore.Collections.ArrayList.ArrayList;
+package BuisnessIncubator;
 
 import java.util.List;
 import java.util.concurrent.ExecutionException;

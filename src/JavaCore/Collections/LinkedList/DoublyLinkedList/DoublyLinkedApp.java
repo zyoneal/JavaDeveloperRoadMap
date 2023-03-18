@@ -1,4 +1,4 @@
-package JavaCore.Collections.LinkedList.DoublyLinkedList;
+package LinkedList.DoublyLinkedList;
 
 class DoublyLinkedApp {
 

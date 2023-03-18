@@ -1,6 +1,6 @@
-package JavaCore.Collections.SetAndMap.Map.HashMap;
+package SetAndMap.Map.HashMap;
 
-import JavaCore.Collections.SetAndMap.Map.WordWrapper;
+import SetAndMap.Map.WordWrapper;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,5 +1,4 @@
-package JavaCore.DesignPatterns.structural.composite.ExampleShape;
-
+package structural.composite.ExampleShape;
 // Компоновщик позволяет нам сохранять древовидную структуру и
 //работать одинаково с родителями и детьми в дереве.
 

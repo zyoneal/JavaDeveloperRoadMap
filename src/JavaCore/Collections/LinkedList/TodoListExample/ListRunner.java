@@ -1,4 +1,4 @@
-package JavaCore.Collections.LinkedList.TodoListExample;
+package LinkedList.TodoListExample;
 
 import java.util.Scanner;
 

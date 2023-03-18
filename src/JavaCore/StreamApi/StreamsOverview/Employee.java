@@ -1,4 +1,4 @@
-package JavaCore.StreamApi.StreamsOverview;
+package StreamsOverview;
 
 import java.util.Objects;
 

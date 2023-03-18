@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.flyweight.ExampleShape;
+package structural.flyweight.ExampleShape;
 
 import java.util.ArrayList;
 import java.util.HashMap;

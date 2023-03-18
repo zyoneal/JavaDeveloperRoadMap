@@ -1,10 +1,10 @@
-package JavaCore.DesignPatterns.abstractFactory.factory.impl;
+package creational.abstractFactory.ExampleCars.factory.impl;
 
-import JavaCore.DesignPatterns.abstractFactory.factory.interfaces.TransportAbstractFactory;
-import JavaCore.DesignPatterns.abstractFactory.factory.transport.impl.aircraft.TU134;
-import JavaCore.DesignPatterns.abstractFactory.factory.transport.impl.car.Niva;
-import JavaCore.DesignPatterns.abstractFactory.transport.interfaces.Aircraft;
-import JavaCore.DesignPatterns.abstractFactory.transport.interfaces.Car;
+import creational.abstractFactory.ExampleCars.factory.interfaces.TransportAbstractFactory;
+import creational.abstractFactory.ExampleCars.factory.transport.impl.aircraft.TU134;
+import creational.abstractFactory.ExampleCars.factory.transport.impl.car.Niva;
+import creational.abstractFactory.ExampleCars.transport.interfaces.Aircraft;
+import creational.abstractFactory.ExampleCars.transport.interfaces.Car;
 
 public class RussianFactory implements TransportAbstractFactory {
 

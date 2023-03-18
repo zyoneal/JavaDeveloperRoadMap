@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.decorator.ExampleCar;
+package structural.decorator.ExampleCar;
 
 public class DecoratorCar extends Car {
 

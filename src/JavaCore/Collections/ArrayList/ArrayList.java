@@ -1,4 +1,4 @@
-package JavaCore.Collections.ArrayList;
+package ArrayList;
 
 import java.util.NoSuchElementException;
 import java.util.Objects;
@@ -24,7 +24,7 @@ public class ArrayList<T> implements List<T> {
     }
 
     public static <T> List<T> of(T... elements) {
-        List<T> list = new ArrayList<>();
+        List<T> list = new ArrayList<T>();
         Stream.of(elements).forEach(list::add);
         return list;
     }

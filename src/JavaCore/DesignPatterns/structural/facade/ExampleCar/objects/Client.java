@@ -1,5 +1,4 @@
-package JavaCore.DesignPatterns.structural.facade.ExampleCar.objects;
-// Фасад предоставляет единую «точку доступа» к подсистеме, тем самым
+package structural.facade.ExampleCar.objects;// Фасад предоставляет единую «точку доступа» к подсистеме, тем самым
 //упрощая его использование и понимание.
 
 // Скрыть сложную внутреннюю реализацию и предоставтиь простой интерфейс
@@ -7,10 +6,10 @@ package JavaCore.DesignPatterns.structural.facade.ExampleCar.objects;
 // Более высокий уровень использования системы
 // Можно обращаться и к самим внутренним обьектам (без фасада)
 
-import JavaCore.DesignPatterns.structural.facade.ExampleCar.CarFacade;
-import JavaCore.DesignPatterns.structural.facade.ExampleCar.parts.Door;
-import JavaCore.DesignPatterns.structural.facade.ExampleCar.parts.Wheel;
-import JavaCore.DesignPatterns.structural.facade.ExampleCar.parts.Zazhiganie;
+import structural.facade.ExampleCar.CarFacade;
+import structural.facade.ExampleCar.parts.Door;
+import structural.facade.ExampleCar.parts.Wheel;
+import structural.facade.ExampleCar.parts.Zazhiganie;
 
 public class Client {
 

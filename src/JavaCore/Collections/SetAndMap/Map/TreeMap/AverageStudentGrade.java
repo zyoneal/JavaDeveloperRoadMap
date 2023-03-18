@@ -1,4 +1,4 @@
-package JavaCore.Collections.SetAndMap.Map.TreeMap;
+package SetAndMap.Map.TreeMap;
 
 public class AverageStudentGrade implements Comparable<AverageStudentGrade> {
 

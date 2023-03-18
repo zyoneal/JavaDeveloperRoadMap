@@ -1,4 +1,4 @@
-package JavaCore.FunctionalInterfaces.Lambdas.HigherOrderFunction;
+package Lambdas.HigherOrderFunction;
 
 public class RichPerson {
 

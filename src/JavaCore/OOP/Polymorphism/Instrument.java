@@ -1,4 +1,4 @@
-package JavaCore.OOP.Polymorphism;
+package Polymorphism;
 
 // Нельзя создать обьект этого класса. (abstract)
 // final class - не позволяет от него наследоваться. final class не может быть abstract

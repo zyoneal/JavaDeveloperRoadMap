@@ -1,4 +1,4 @@
-package JavaCore.Multithreading.Threading.executors;
+package Threading.executors;
 
 import java.util.Random;
 

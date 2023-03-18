@@ -1,4 +1,4 @@
-package JavaCore.OOP.SOLID.OpenClosed;
+package SOLID.OpenClosed;
 
 public interface Saveable {
 

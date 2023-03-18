@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.facade.ExampleCar.parts;
+package structural.facade.ExampleCar.parts;
 
 public class Zazhiganie {
     public void fire() {

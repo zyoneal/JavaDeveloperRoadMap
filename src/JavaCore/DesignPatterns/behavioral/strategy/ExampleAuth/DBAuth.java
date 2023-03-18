@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.strategy.ExampleAuth;
+package behavioral.strategy.ExampleAuth;
 
 public class DBAuth implements AuthStrategy {
 

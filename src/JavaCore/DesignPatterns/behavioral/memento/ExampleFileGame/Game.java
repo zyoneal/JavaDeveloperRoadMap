@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.memento.ExampleFileGame;
+package behavioral.memento.ExampleFileGame;
 
 public class Game {
 

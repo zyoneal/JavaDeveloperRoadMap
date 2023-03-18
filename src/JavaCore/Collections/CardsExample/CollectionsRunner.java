@@ -1,4 +1,4 @@
-package JavaCore.Collections.CardsExample;
+package CardsExample;
 
 import java.util.ArrayList;
 import java.util.Collections;

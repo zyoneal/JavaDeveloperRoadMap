@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.observer.ExampleBoxers;
+package behavioral.observer.ExampleBoxers;
 
 public class ConservativePlayer implements IObserver{
 

@@ -1,7 +1,6 @@
-package JavaCore.DesignPatterns.behavioral.chainOfResponsibility.ExampleCafe;
+package behavioral.chainOfResponsibility.ExampleCafe;
 
-
-import JavaCore.Collections.ArrayList.ArrayList;
+import java.util.ArrayList;
 
 public class Demo {
 

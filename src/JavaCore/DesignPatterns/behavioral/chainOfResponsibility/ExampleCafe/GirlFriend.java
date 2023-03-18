@@ -1,4 +1,6 @@
-package JavaCore.DesignPatterns.behavioral.chainOfResponsibility.ExampleCafe;
+package behavioral.chainOfResponsibility.ExampleCafe;
+
+import java.util.Objects;
 
 public class GirlFriend extends WierdCafeVisitor {
     public GirlFriend(WierdCafeVisitor cafeVisitor) {
@@ -7,7 +9,7 @@ public class GirlFriend extends WierdCafeVisitor {
 
     @Override
     public void handleFood(Food food) {
-        if(food.name == "Cappuccino") {
+        if(Objects.equals(food.name, "Cappuccino")) {
             System.out.println("GirlFriend: My lovely cappuccino!!!");
         }
         super.handleFood(food);

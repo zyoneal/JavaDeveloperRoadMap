@@ -1,5 +1,3 @@
-package JavaCore.Constructors;
-
 public class Employee {
 
     private static int id = 1000;

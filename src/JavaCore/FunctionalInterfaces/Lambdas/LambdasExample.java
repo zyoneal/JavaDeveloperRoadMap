@@ -1,6 +1,6 @@
-package JavaCore.FunctionalInterfaces.Lambdas;
+package Lambdas;
 
-import JavaCore.FunctionalInterfaces.Lambdas.model.Circle;
+import Lambdas.model.Circle;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,8 +1,6 @@
-package JavaCore.JavaIO;
-
-import JavaCore.Collections.SetAndMap.Map.TreeMap.AverageStudentGrade;
-import JavaCore.Collections.SetAndMap.Map.TreeMap.SubjectGrade;
-import JavaCore.Collections.SetAndMap.Map.TreeMap.TreeMapRunner;
+import SetAndMap.Map.TreeMap.AverageStudentGrade;
+import SetAndMap.Map.TreeMap.SubjectGrade;
+import SetAndMap.Map.TreeMap.TreeMapRunner;
 
 import java.io.*;
 import java.util.*;
@@ -13,8 +11,8 @@ import java.util.*;
 // бинарный файл
 // серриалзация
 
-// ПУТЬ - адрес нашего файла в файловой системе
-// есть абсолютный и относительный путь. Относительный путь будет начинаться в том месте в котором была запущена jvm.
+// ПУТЬ - адрес нашего файла в ный путь.файловой системе
+//// есть абсолютный и относитель Относительный путь будет начинаться в том месте в котором была запущена jvm.
 // ОТНОСИТЕЛЬНЫЙ ПУТЬ
 // ./files - . (текущая дериктория), /(разделитель дерикторий)
 // ../ - родительская дериктория относительно той в которой мы находимся

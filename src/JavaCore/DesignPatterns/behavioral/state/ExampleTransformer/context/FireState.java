@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.state.ExampleTransformer.context;
+package behavioral.state.ExampleTransformer.context;
 
 public class FireState implements TransformerState{
 

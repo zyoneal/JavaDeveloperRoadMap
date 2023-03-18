@@ -1,4 +1,4 @@
-package JavaCore.Collections.LinkedList.FirstLastList;
+package LinkedList.FirstLastList;
 
 class Link {
 

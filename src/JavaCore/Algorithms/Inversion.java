@@ -1,5 +1,3 @@
-package JavaCore.Algorithms;
-
 public class Inversion {
 
     //================Inversion left to mid================

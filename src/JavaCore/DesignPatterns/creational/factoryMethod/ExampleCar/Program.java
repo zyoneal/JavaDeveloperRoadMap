@@ -1,5 +1,4 @@
-package JavaCore.DesignPatterns.creational.factoryMethod.ExampleCar;
-
+package creational.factoryMethod.ExampleCar;
 // известен интерфейс, но заранее неизвестно какая из реализаций будет использоваться
 // получение ссылки на обьект в зависимости от входящих условий
 

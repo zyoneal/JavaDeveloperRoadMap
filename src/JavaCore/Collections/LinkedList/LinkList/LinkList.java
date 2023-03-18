@@ -1,4 +1,4 @@
-package JavaCore.Collections.LinkedList.LinkList;
+package LinkedList.LinkList;
 
 public class LinkList {
 

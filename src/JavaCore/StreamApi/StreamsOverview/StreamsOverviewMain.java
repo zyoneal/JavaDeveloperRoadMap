@@ -1,5 +1,4 @@
-package JavaCore.StreamApi.StreamsOverview;
-
+package StreamsOverview;
 
 import java.io.IOException;
 import java.nio.file.Files;

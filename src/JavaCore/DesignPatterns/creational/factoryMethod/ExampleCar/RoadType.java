@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.creational.factoryMethod.ExampleCar;
+package creational.factoryMethod.ExampleCar;
 
 public enum RoadType {
 

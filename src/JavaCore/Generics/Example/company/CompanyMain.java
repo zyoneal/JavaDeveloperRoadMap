@@ -1,8 +1,9 @@
-package JavaCore.Generics.Example.company;
+package Example.company;
 
-import JavaCore.Generics.Example.company.employees.Accountant;
-import JavaCore.Generics.Example.company.employees.ITSpecialist;
-import JavaCore.Generics.Example.company.employees.Manager;
+
+import Example.company.employees.Accountant;
+import Example.company.employees.ITSpecialist;
+import Example.company.employees.Manager;
 
 //=====================================WILDCARDING===========================================
 public class CompanyMain {

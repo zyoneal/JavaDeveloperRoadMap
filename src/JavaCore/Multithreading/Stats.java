@@ -1,5 +1,3 @@
-package JavaCore.Multithreading;
-
 public class Stats {
     // volatile - shared memory
     volatile private Long counter = 0L;

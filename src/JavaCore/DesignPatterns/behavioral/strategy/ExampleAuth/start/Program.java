@@ -1,6 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.strategy.ExampleAuth.start;
-
-// Выбор одного из семейства алгоритмов для выполнения действия
+package behavioral.strategy.ExampleAuth.start;// Выбор одного из семейства алгоритмов для выполнения действия
 // Выбор алгоритма зависит от переданой реализации в параметр
 // Не зависит от конкретных реализаций
 // Смысл действия один, реализации - разные
@@ -10,9 +8,9 @@ package JavaCore.DesignPatterns.behavioral.strategy.ExampleAuth.start;
 // Одноразовое действие
 
 
-import JavaCore.DesignPatterns.behavioral.strategy.ExampleAuth.DBAuth;
-import JavaCore.DesignPatterns.behavioral.strategy.ExampleAuth.FileAuth;
-import JavaCore.DesignPatterns.behavioral.strategy.ExampleAuth.auth.UserChecker;
+import behavioral.strategy.ExampleAuth.DBAuth;
+import behavioral.strategy.ExampleAuth.FileAuth;
+import behavioral.strategy.ExampleAuth.auth.UserChecker;
 
 import java.io.File;
 

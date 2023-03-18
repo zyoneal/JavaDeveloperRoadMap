@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.mediator.ExampleChat;
+package behavioral.mediator.ExampleChat;
 
 import java.util.ArrayList;
 import java.util.List;

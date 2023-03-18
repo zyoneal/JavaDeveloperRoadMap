@@ -1,5 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.observer.ExampleSubscribers;
-
+package behavioral.observer.ExampleSubscribers;
 // Наблюдатель позволяет автоматически реагировать многим объектам на
 //изменение состояния определенного другого объекта.
 

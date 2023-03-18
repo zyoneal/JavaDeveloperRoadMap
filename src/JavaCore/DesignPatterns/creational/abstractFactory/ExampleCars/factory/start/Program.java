@@ -1,15 +1,14 @@
-package JavaCore.DesignPatterns.creational.abstractFactory.ExampleCars.factory.start;
-
-import JavaCore.DesignPatterns.abstractFactory.factory.impl.RussianFactory;
-import JavaCore.DesignPatterns.abstractFactory.factory.interfaces.TransportAbstractFactory;
-import JavaCore.DesignPatterns.abstractFactory.transport.interfaces.Aircraft;
-
+package creational.abstractFactory.ExampleCars.factory.start;
 //Абстрактная Фабрика предоставляет простой интерфейс для создания объектов,
 //принадлежащие к тому или иному семейству.
 
 // Использовать когда есть много разных типов одних обьектов
 // Например игрушки: мягкие, деревянные
 // Машины: Русские, Американские
+
+import creational.abstractFactory.ExampleCars.factory.impl.RussianFactory;
+import creational.abstractFactory.ExampleCars.factory.interfaces.TransportAbstractFactory;
+import creational.abstractFactory.ExampleCars.transport.interfaces.Aircraft;
 
 public class Program {
 

@@ -1,7 +1,6 @@
-package JavaCore.DesignPatterns.structural.bridge.ExampleCar.types;
+package structural.bridge.ExampleCar.types;
 
-
-import JavaCore.DesignPatterns.structural.bridge.ExampleCar.makers.Make;
+import structural.bridge.ExampleCar.makers.Make;
 
 public class Hatchback extends Car {
 

@@ -1,4 +1,4 @@
-package JavaCore.Collections.SetAndMap.Set;
+package SetAndMap.Set;
 
 public class Car implements Comparable<Car> {
 

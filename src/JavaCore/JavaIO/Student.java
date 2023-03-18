@@ -1,6 +1,4 @@
-package JavaCore.JavaIO;
-
-import JavaCore.Collections.SetAndMap.Map.TreeMap.SubjectGrade;
+import SetAndMap.Map.TreeMap.SubjectGrade;
 
 import java.io.Serializable;
 import java.util.Set;

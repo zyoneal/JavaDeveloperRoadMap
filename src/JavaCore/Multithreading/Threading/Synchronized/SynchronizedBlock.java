@@ -1,4 +1,4 @@
-package JavaCore.Multithreading.Threading.Synchronized;
+package Threading.Synchronized;
 
 import java.util.ArrayList;
 import java.util.List;

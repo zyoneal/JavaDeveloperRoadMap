@@ -1,9 +1,9 @@
-package JavaCore.DesignPatterns.structural.facade.ExampleCar;
+package structural.facade.ExampleCar;
 
 
-import JavaCore.DesignPatterns.structural.facade.ExampleCar.parts.Door;
-import JavaCore.DesignPatterns.structural.facade.ExampleCar.parts.Wheel;
-import JavaCore.DesignPatterns.structural.facade.ExampleCar.parts.Zazhiganie;
+import structural.facade.ExampleCar.parts.Door;
+import structural.facade.ExampleCar.parts.Wheel;
+import structural.facade.ExampleCar.parts.Zazhiganie;
 
 public class CarFacade {
 

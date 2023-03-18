@@ -1,4 +1,4 @@
-package JavaCore.Multithreading.Threading.producerConsumer;
+package Threading.producerConsumer;
 
 import java.util.Random;
 import java.util.concurrent.ArrayBlockingQueue;

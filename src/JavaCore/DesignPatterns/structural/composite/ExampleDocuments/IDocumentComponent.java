@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.composite.ExampleDocuments;
+package structural.composite.ExampleDocuments;
 
 public interface IDocumentComponent {
 

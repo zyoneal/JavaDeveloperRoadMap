@@ -1,4 +1,3 @@
-package JavaCore.Optional;
 
 public class Account {
 

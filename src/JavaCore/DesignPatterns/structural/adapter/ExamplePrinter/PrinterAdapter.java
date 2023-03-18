@@ -1,7 +1,6 @@
-package JavaCore.DesignPatterns.structural.adapter.ExamplePrinter;
+package structural.adapter.ExamplePrinter;
 
-
-import JavaCore.DesignPatterns.structural.adapter.ExamplePrinter.objects.Printer;
+import structural.adapter.ExamplePrinter.objects.Printer;
 
 import java.util.List;
 

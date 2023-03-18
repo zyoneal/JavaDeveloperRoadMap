@@ -1,4 +1,4 @@
-package JavaCore.Generics.Example.company.employees;
+package Example.company.employees;
 
 public class Accountant  extends  Employee {
 

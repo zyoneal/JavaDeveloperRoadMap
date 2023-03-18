@@ -1,5 +1,3 @@
-package JavaCore.Algorithms;
-
 public class Fibonacci {
 
 //    =========== ЧИСЛО ФИБОНАЧИ ИТЕРАТИВНО================

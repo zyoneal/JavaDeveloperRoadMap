@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.creational.abstractFactory.ExampleToys;
+package creational.abstractFactory.ExampleToys;
 
 // Один интерфейс мешка, но разные его реализации.
 // Из одного достаем мягкие игрушки, из другого деревянные.

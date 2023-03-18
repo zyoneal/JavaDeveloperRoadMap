@@ -1,11 +1,11 @@
-package JavaCore.DesignPatterns.structural.decorator.ExampleWindow;
-
+package structural.decorator.ExampleWindow;
 // Декоратор используется для предоставления некоторой дополнительной
 // функциональности нашим объектам
 
-import JavaCore.DesignPatterns.structural.decorator.ExampleWindow.objects.Component;
-import JavaCore.DesignPatterns.structural.decorator.ExampleWindow.objects.TextView;
-import JavaCore.DesignPatterns.structural.decorator.ExampleWindow.objects.Window;
+
+import structural.decorator.ExampleWindow.objects.Component;
+import structural.decorator.ExampleWindow.objects.TextView;
+import structural.decorator.ExampleWindow.objects.Window;
 
 public class Program {
 

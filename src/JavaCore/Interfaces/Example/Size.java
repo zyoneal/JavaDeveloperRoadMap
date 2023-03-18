@@ -1,4 +1,4 @@
-package JavaCore.Interfaces.Example;
+package Example;
 
 public enum Size {
     S, M, L, XL;

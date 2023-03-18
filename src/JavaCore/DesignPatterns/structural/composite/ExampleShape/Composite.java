@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.composite.ExampleShape;
+package structural.composite.ExampleShape;
 
 import java.util.ArrayList;
 import java.util.List;

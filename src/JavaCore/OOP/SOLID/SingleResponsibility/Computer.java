@@ -1,4 +1,4 @@
-package JavaCore.OOP.SOLID.SingleResponsibility;
+package SOLID.SingleResponsibility;
 
 // Не создавать класс который делает все. Разделять на разные классы, которые выполняют свою работу.
 

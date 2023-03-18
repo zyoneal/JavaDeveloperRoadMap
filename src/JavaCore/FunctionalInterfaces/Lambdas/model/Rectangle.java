@@ -1,4 +1,4 @@
-package JavaCore.FunctionalInterfaces.Lambdas.model;
+package Lambdas.model;
 
 public class Rectangle implements Shape {
 

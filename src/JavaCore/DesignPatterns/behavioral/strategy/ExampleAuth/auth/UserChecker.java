@@ -1,6 +1,6 @@
-package JavaCore.DesignPatterns.behavioral.strategy.ExampleAuth.auth;
+package behavioral.strategy.ExampleAuth.auth;
 
-import JavaCore.DesignPatterns.behavioral.strategy.ExampleAuth.AuthStrategy;
+import behavioral.strategy.ExampleAuth.AuthStrategy;
 
 public class UserChecker {
 

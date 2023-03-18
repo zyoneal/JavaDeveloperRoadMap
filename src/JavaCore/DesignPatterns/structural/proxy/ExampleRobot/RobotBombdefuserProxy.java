@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.proxy.ExampleRobot;
+package structural.proxy.ExampleRobot;
 
 public class RobotBombdefuserProxy extends RobotBombDefuser {
 

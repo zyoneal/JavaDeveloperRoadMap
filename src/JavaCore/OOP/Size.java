@@ -1,5 +1,3 @@
-package JavaCore.OOP;
-
 public enum Size {
 
     VERY_SMALL("XS"),

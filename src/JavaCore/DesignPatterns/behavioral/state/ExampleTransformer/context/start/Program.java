@@ -1,15 +1,13 @@
-package JavaCore.DesignPatterns.behavioral.state.ExampleTransformer.context.start;
-
-// Состояние позволяет вынести логику определения состояния объекта и его
+package behavioral.state.ExampleTransformer.context.start;// Состояние позволяет вынести логику определения состояния объекта и его
 //поведение, характерное для этого состояния, в других классах.
 
 // Обьект который меняет свое поведение в зависимости от своего состояния
 // позволяет избегать мгогочисленных if
 
-import JavaCore.DesignPatterns.behavioral.state.ExampleTransformer.context.FireState;
-import JavaCore.DesignPatterns.behavioral.state.ExampleTransformer.context.MoveState;
-import JavaCore.DesignPatterns.behavioral.state.ExampleTransformer.context.TransformerState;
-import JavaCore.DesignPatterns.behavioral.state.ExampleTransformer.context.TransformerContext;
+import behavioral.state.ExampleTransformer.context.FireState;
+import behavioral.state.ExampleTransformer.context.MoveState;
+import behavioral.state.ExampleTransformer.context.TransformerContext;
+import behavioral.state.ExampleTransformer.context.TransformerState;
 
 public class Program {
 

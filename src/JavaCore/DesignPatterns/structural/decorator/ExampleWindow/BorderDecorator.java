@@ -1,6 +1,6 @@
-package JavaCore.DesignPatterns.structural.decorator.ExampleWindow;
+package structural.decorator.ExampleWindow;
 
-import JavaCore.DesignPatterns.structural.decorator.ExampleWindow.objects.Component;
+import structural.decorator.ExampleWindow.objects.Component;
 
 public class BorderDecorator extends Decorator {
 

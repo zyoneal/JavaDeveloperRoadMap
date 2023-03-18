@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.abstractFactory.transport.interfaces;
+package creational.abstractFactory.ExampleCars.transport.interfaces;
 
 public interface Car {
 

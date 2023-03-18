@@ -1,4 +1,4 @@
-package JavaCore.FunctionalInterfaces.Lambdas;
+package Lambdas;
 
 
 public class TransformUtils<T> {

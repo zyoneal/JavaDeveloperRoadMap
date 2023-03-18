@@ -1,5 +1,4 @@
-package JavaCore.OOP.SOLID.SingleResponsibility;
-
+package SOLID.SingleResponsibility;
 public class ComputerSaver {
 
     public void saveToFile(String path, Computer computer) {

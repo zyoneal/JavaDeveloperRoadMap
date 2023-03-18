@@ -1,5 +1,3 @@
-package JavaCore.Constructors;
-
 public class ConstructorsMain {
 
     public static void main(String[] args) {

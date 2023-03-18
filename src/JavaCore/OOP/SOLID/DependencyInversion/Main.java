@@ -1,4 +1,4 @@
-package JavaCore.OOP.SOLID.DependencyInversion;
+package SOLID.DependencyInversion;
 
 public class Main {
 

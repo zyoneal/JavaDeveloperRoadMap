@@ -1,4 +1,4 @@
-package JavaCore.Interfaces.Example;
+package Example;
 
 public interface Priceable extends Deliverable, Orderable {
 

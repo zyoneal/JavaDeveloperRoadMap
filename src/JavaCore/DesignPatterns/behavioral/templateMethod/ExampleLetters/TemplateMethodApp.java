@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.templateMethod.ExampleLetters;
+package behavioral.templateMethod.ExampleLetters;
 
 // Шаблонный метод  - это метод, внутренние блоки которого
 //могут переопределяться подклассами для избежания повторного копирования.

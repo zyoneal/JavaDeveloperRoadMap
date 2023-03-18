@@ -1,4 +1,4 @@
-package JavaCore.Collections.ArrayList;
+package ArrayList;
 
 public interface List<T> {
 

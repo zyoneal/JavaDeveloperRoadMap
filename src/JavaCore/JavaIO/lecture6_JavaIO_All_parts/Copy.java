@@ -1,4 +1,4 @@
-package JavaCore.JavaIO.lecture6_JavaIO_All_parts;
+package lecture6_JavaIO_All_parts;
 
 import java.io.*;
 

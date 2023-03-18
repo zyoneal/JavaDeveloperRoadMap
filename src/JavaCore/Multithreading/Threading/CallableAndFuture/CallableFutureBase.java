@@ -1,4 +1,4 @@
-package JavaCore.Multithreading.Threading.CallableAndFuture;
+package Threading.CallableAndFuture;
 
 import java.time.Duration;
 import java.time.Instant;

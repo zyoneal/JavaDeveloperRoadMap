@@ -1,6 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.chainOfResponsibility.ExampleLogger;
-
-// Цепочка Ответственностей обеспечивает обработку объекта путём
+package behavioral.chainOfResponsibility.ExampleLogger;// Цепочка Ответственностей обеспечивает обработку объекта путём
 //передачи его по цепочке до тех пор, пока не будет произведена обработка какой-либо
 //из звеньев.
 

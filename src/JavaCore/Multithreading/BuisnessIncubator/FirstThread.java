@@ -1,5 +1,4 @@
-package JavaCore.Multithreading.BuisnessIncubator;
-
+package BuisnessIncubator;
 
 import java.util.List;
 // наследоваться от Thread

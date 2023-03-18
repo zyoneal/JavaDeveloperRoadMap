@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.observer.ExampleSubscribers;
+package behavioral.observer.ExampleSubscribers;
 
 public class Subscriber1 implements PublisherActionListener {
 

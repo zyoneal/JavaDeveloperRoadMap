@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.composite.ExampleShape;
+package structural.composite.ExampleShape;
 
 public class Square implements Shape{
 

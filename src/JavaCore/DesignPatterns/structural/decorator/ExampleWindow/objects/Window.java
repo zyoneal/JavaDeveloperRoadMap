@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.decorator.ExampleWindow.objects;
+package structural.decorator.ExampleWindow.objects;
 
 public class Window implements Component {
 

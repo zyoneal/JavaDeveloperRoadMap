@@ -1,5 +1,3 @@
-package JavaCore.JavaIO;
-
 import java.io.IOException;
 import java.nio.file.FileStore;
 import java.nio.file.Files;

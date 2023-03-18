@@ -1,5 +1,3 @@
-package JavaCore.Algorithms;
-
 import java.util.Arrays;
 
 //Selection sort - это алгоритм сортировки, который проходит через массив несколько раз, на каждой итерации находит наименьший элемент

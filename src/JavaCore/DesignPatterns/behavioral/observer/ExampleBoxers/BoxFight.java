@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.observer.ExampleBoxers;
+package behavioral.observer.ExampleBoxers;
 
 import java.util.ArrayList;
 import java.util.Random;

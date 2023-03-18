@@ -1,5 +1,3 @@
-package JavaCore.Algorithms;
-
 // Бинарный поиск (binary search) - это алгоритм поиска элемента в упорядоченном списке,
 // который использует метод деления пополам для уменьшения количества элементов, которые необходимо проверить.
 //
@@ -23,7 +21,7 @@ public class BinarySearch {
     public static void main(String[] args) {
         int[] testArray = {1, 3, 5, 7, 9};
 
-        binarySearch(testArray, 3);
+        System.out.println(binarySearch(testArray, 3));
     }
 
     public static int binarySearch(int[] array, int key) {

@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.templateMethod.ExampleMessages;
+package behavioral.templateMethod.ExampleMessages;
 
 import java.time.LocalDateTime;
 

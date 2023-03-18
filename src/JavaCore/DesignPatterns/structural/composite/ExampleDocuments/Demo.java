@@ -1,6 +1,4 @@
-package JavaCore.DesignPatterns.structural.composite.ExampleDocuments;
-
-import java.awt.*;
+package structural.composite.ExampleDocuments;
 
 public class Demo {
 

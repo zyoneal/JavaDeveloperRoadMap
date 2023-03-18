@@ -1,4 +1,4 @@
-package JavaCore.FunctionalInterfaces.Lambdas.model;
+package Lambdas.model;
 
 import java.util.List;
 

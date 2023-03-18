@@ -1,4 +1,4 @@
-package JavaCore.Multithreading.Threading;
+package Threading;
 
 public class ColorScheme {
     //  ANSI COLOR SCHEME

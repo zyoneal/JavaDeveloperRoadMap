@@ -1,4 +1,4 @@
-package JavaCore.Collections.SetAndMap.Map;
+package SetAndMap.Map;
 
 import java.util.Objects;
 

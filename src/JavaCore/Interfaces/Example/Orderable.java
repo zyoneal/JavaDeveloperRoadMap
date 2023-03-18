@@ -1,4 +1,4 @@
-package JavaCore.Interfaces.Example;
+package Example;
 
 @FunctionalInterface // функциональный интерфейс (только один метод) не может быть использован в лямбда выражениях
 public interface Orderable {

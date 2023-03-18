@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.creational.factoryMethod.ExampleCar;
+package creational.factoryMethod.ExampleCar;
 
 // Фабрика по созданию автомобилей
 public class CarSelector {

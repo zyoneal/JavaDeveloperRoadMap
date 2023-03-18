@@ -1,7 +1,5 @@
-package JavaCore.JavaIO;
-
-import JavaCore.Collections.SetAndMap.Map.TreeMap.AverageStudentGrade;
-import JavaCore.Collections.SetAndMap.Map.TreeMap.SubjectGrade;
+import SetAndMap.Map.TreeMap.AverageStudentGrade;
+import SetAndMap.Map.TreeMap.SubjectGrade;
 
 import java.io.*;
 import java.nio.ByteBuffer;

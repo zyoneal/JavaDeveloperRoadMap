@@ -1,4 +1,5 @@
-package JavaCore.OOP.SOLID.DependencyInversion;
+package SOLID.DependencyInversion;
+
 
 public class WebFramework {
     // Так как форм может быть много, то нужно передавать в метод абстракцию форм (Интерфейс который будут имплементить классы форм)

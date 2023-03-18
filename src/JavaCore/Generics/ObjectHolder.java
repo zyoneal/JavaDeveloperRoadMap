@@ -1,5 +1,3 @@
-package JavaCore.Generics;
-
 public class ObjectHolder <T>{
 
     private T obj;

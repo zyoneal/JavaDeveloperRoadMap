@@ -1,4 +1,4 @@
-package JavaCore.Collections.LinkedList;
+package LinkedList;
 
 public interface List<T> {
 

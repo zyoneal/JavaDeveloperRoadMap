@@ -1,4 +1,4 @@
-package JavaCore.OOP.SOLID.LiskovSubstitution;
+package SOLID.LiskovSubstitution;
 
 public class SaveComputerToDB implements Saveable {
 

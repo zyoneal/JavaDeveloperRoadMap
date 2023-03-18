@@ -1,10 +1,7 @@
-package JavaCore.FunctionalInterfaces.Lambdas;
+package Lambdas;
 
-import JavaCore.FunctionalInterfaces.Lambdas.model.Circle;
-import JavaCore.FunctionalInterfaces.Lambdas.model.Person;
-import JavaCore.FunctionalInterfaces.Lambdas.model.Rectangle;
-import JavaCore.FunctionalInterfaces.Lambdas.model.RichPerson;
-import JavaCore.FunctionalInterfaces.Lambdas.model.Square;
+import Lambdas.model.Person;
+import Lambdas.model.RichPerson;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,6 +10,9 @@ import java.util.function.BinaryOperator;
 import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
+import Lambdas.model.Circle;
+import Lambdas.model.Rectangle;
+import Lambdas.model.Square;
 
 public class LambdaFunctionExample {
 

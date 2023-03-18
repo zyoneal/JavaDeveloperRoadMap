@@ -1,5 +1,3 @@
-package JavaCore.JavaIO;
-
 import java.io.*;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;

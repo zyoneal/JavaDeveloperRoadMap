@@ -1,4 +1,4 @@
-package JavaCore.OOP.Inheritance;
+package Inheritance;
 
 // Main Abstract class of Autos
 public abstract class Auto {

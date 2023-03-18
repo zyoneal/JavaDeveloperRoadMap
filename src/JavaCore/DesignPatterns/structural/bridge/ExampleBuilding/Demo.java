@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.bridge.ExampleBuilding;
+package structural.bridge.ExampleBuilding;
 
 public class Demo {
 

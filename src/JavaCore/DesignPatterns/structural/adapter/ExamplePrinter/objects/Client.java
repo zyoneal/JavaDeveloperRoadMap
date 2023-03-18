@@ -1,5 +1,4 @@
-package JavaCore.DesignPatterns.structural.adapter.ExamplePrinter.objects;
-
+package structural.adapter.ExamplePrinter.objects;
 //Адаптер предоставляет возможность пользоваться объектом, не являющимся
 //приемлемым в нашей системе и нельзя изменить. Мы адаптируем
 //его функциональность через другой, известный нашей системе, интерфейс
@@ -7,7 +6,8 @@ package JavaCore.DesignPatterns.structural.adapter.ExamplePrinter.objects;
 // помогает двум разным интерфейсам работать вместе
 // реализуется 2 способами: наследованием и композицией
 
-import JavaCore.DesignPatterns.structural.adapter.ExamplePrinter.PrinterAdapter;
+
+import structural.adapter.ExamplePrinter.PrinterAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

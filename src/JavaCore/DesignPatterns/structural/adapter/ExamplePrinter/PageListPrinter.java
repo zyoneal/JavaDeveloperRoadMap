@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.adapter.ExamplePrinter;
+package structural.adapter.ExamplePrinter;
 
 import java.util.List;
 

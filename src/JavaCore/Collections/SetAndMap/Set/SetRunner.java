@@ -1,4 +1,4 @@
-package JavaCore.Collections.SetAndMap.Set;
+package SetAndMap.Set;
 
 import java.util.Arrays;
 import java.util.HashSet;

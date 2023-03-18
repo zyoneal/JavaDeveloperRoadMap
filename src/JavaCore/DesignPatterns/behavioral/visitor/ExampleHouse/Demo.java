@@ -1,6 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.visitor.ExampleHouse;
-
-import javax.print.attribute.standard.PrinterLocation;
+package behavioral.visitor.ExampleHouse;
 
 public class Demo {
 

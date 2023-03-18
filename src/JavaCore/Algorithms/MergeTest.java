@@ -1,5 +1,3 @@
-package JavaCore.Algorithms;
-
 import java.util.Arrays;
 
 public class MergeTest {

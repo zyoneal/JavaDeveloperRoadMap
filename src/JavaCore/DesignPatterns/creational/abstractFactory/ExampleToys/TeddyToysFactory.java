@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.creational.abstractFactory.ExampleToys;
+package creational.abstractFactory.ExampleToys;
 
 public class TeddyToysFactory implements ToysFactory {
     @Override

@@ -1,5 +1,3 @@
-package JavaCore.Algorithms;
-
 // (n log n)
 public class MergeSort {
 

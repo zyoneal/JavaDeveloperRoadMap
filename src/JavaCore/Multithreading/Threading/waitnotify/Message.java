@@ -1,4 +1,4 @@
-package JavaCore.Multithreading.Threading.waitnotify;
+package Threading.waitnotify;
 
 public class Message {
 

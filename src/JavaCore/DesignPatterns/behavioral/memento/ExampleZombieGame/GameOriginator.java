@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.behavioral.memento.ExampleZombieGame;
+package behavioral.memento.ExampleZombieGame;
 
 public class GameOriginator {
 

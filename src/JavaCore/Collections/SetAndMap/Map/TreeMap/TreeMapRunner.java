@@ -1,4 +1,4 @@
-package JavaCore.Collections.SetAndMap.Map.TreeMap;
+package SetAndMap.Map.TreeMap;
 
 import java.util.HashSet;
 import java.util.Map;

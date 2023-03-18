@@ -1,4 +1,4 @@
-package JavaCore.OOP.Polymorphism;
+package Polymorphism;
 
 // главный принцип полиморфизма - типо обьекта определяется не тем как он описан, а тем какой конструктор мы вызвали
 public class Main {

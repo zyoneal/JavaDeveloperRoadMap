@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.decorator.ExampleIceCream;
+package structural.decorator.ExampleIceCream;
 
 public class VanillaIceCream implements IceCream {
 

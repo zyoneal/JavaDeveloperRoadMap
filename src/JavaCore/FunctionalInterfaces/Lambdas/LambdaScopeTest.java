@@ -1,4 +1,4 @@
-package JavaCore.FunctionalInterfaces.Lambdas;
+package Lambdas;
 
 import java.util.function.Consumer;
 

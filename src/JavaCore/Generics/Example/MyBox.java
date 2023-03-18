@@ -1,4 +1,4 @@
-package JavaCore.Generics.Example;
+package Example;
 
 public class MyBox<X> {
     // поля инициализировать только параметром который находися в классе.

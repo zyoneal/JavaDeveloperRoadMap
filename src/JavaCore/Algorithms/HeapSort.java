@@ -1,5 +1,3 @@
-package JavaCore.Algorithms;
-
 // Алгоритм Heap Sort работает по следующей схеме:
 //
 //Строим кучу из массива.

@@ -1,5 +1,3 @@
-package JavaCore.OOP;
-
 public class Dog {
 
     public static int dogCount;

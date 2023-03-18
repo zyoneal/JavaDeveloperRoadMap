@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.structural.bridge.ExampleCar.makers;
+package structural.bridge.ExampleCar.makers;
 
 public class Kia implements Make {
 

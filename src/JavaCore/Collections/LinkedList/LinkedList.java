@@ -1,4 +1,4 @@
-package JavaCore.Collections.LinkedList;
+package LinkedList;
 
 import java.util.NoSuchElementException;
 import java.util.Objects;
@@ -31,7 +31,7 @@ public class LinkedList<T> implements List<T> {
      * @return a new list of elements the were passed as method parameters
      */
     public static <T> LinkedList<T> of(T... elements) {
-        LinkedList<T> linkedList = new LinkedList<>();
+        LinkedList<T> linkedList = new LinkedList<T>();
         for (T e : elements) {
             linkedList.add(e);
         }

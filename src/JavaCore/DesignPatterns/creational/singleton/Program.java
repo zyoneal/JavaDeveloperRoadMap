@@ -1,5 +1,4 @@
-package JavaCore.DesignPatterns.creational.singleton;
-
+package creational.singleton;
 // Создание обьекта в единственном экземпляре
 // Глобальный доступ (обычно через статичный метод или переменную),
 // замена глобальным переменным

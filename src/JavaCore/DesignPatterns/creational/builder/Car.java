@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.creational.builder;
+package creational.builder;
 
 public class Car {
 
