@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.prototype;
+package JavaCore.DesignPatterns.creational.prototype;
 
 public interface Copyable {
 

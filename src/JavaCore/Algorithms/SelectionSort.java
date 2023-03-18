@@ -2,24 +2,36 @@ package JavaCore.Algorithms;
 
 import java.util.Arrays;
 
+//Selection sort - это алгоритм сортировки, который проходит через массив несколько раз, на каждой итерации находит наименьший элемент
+// и помещает его в начало неотсортированной части массива. Принцип работы алгоритма selection sort в Java может быть описан следующим образом:
+//
+//Находим наименьший элемент в массиве и меняем его местами с первым элементом массива.
+//Находим наименьший элемент в массиве, начиная с индекса 1, и меняем его местами с элементом массива, находящимся на второй позиции.
+//Продолжаем процесс, перебирая все элементы массива и находя наименьший элемент в неотсортированной части массива и меняя его местами
+//с первым элементом в неотсортированной части.
+
+//Этот процесс продолжается до тех пор, пока не будет отсортирована вся последовательность.
 public class SelectionSort {
 
     //=========== SELECTION SORT ======================
     //СРАВНИТЬВАТЬ 1 ЭЛЕМЕНТ СО ВСЕМИ, ЕСЛИ НАХОДИШЬ МЕНЬШЕ ТО ПЕРЕСТАВЛЯЕШЬ
 
-    public static void selectionSort(int[] array) {
-        for (int barrier = 0; barrier < array.length - 1; barrier++) {
-            int element = array[barrier];
-            for (int index = barrier + 1; index < array.length; index++) {
-                if (element > array[index]) {
-                    int temp = array[index];
-                    array[index] = array[barrier];
-                    array[barrier] = temp;
-                    element = array[barrier];
+    public void selectionSort(int[] arr) {
+        int n = arr.length;
+        // Проход по неотсортированной части массива
+        for (int i = 0; i < n-1; i++) {
+            // Находим наименьший элемент в неотсортированной части
+            int minIndex = i;
+            for (int j = i+1; j < n; j++) {
+                if (arr[j] < arr[minIndex]) {
+                    minIndex = j;
                 }
             }
+            // Меняем местами наименьший элемент с первым элементом неотсортированной части
+            int temp = arr[minIndex];
+            arr[minIndex] = arr[i];
+            arr[i] = temp;
         }
-        System.out.println(Arrays.toString(array));
     }
 
     //=========== СОРТИРОВКА ВЫБОРОМ ЧЕРЕЗ ПОИСК МИНИМАЛЬНОГО ЗНАЧЕНИЯ=============

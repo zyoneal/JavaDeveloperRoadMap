@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.builder;
+package JavaCore.DesignPatterns.creational.builder;
 
 //Строитель - вырисовывает стандартный процесс создания сложного
 //объекта, отделяя логику строительства объекта от его представления.

@@ -1,10 +1,13 @@
-package JavaCore.DesignPatterns.singleton;
+package JavaCore.DesignPatterns.creational.singleton;
 
 public class TestSingleton {
 
-    private static final TestSingleton instance = new TestSingleton();
+    private static TestSingleton instance = null;
 
     public static TestSingleton getInstance() {
+        if (instance == null) {
+            instance = new TestSingleton();
+        }
         return instance;
     }
 

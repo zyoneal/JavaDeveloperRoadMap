@@ -1,6 +1,6 @@
-package JavaCore.DesignPatterns.prototype;
+package JavaCore.DesignPatterns.creational.prototype;
 
-public class Human implements Copyable{
+public class Human implements Copyable {
 
     int age;
 

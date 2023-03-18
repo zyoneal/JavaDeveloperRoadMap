@@ -1,4 +1,4 @@
-package JavaCore.DesignPatterns.prototype;
+package JavaCore.DesignPatterns.creational.prototype;
 
 //Прототип позволяет нам создавать копии объектов, уже определенных на
 //стадии дизайна (например, список возможных типов встреч) или же
